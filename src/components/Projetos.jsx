@@ -6,7 +6,7 @@ const projetos = [
     descricao:
       "Landing page moderna para restaurante local com cardápio, localização e formulário de reserva.",
     tags: ["HTML", "CSS", "JavaScript"],
-    link: "#",
+    link: "https://site-restaurante-seven-taupe.vercel.app/",
     emoji: "🍕",
   },
   {
