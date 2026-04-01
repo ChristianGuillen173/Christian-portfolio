@@ -18,6 +18,14 @@ const projetos = [
     emoji: "⚡",
   },
   {
+    titulo: "Site para Clínica Odontológica",
+    descricao:
+      "Site completo para clínica odontológica com apresentação da equipe, serviços, agendamento online e localização.",
+    tags: ["React", "Tailwind"],
+    link: "https://site-clinica-kohl.vercel.app/",
+    emoji: "🦷",
+  },
+  {
     titulo: "Dashboard com SQL",
     descricao:
       "Painel administrativo com cadastro de clientes e relatórios gerados a partir de banco de dados.",
